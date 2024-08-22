@@ -263,5 +263,15 @@ p4 {
 
 #tema:checked~#content{
      background-color:hsl(230, 17%, 14%);
+
+     &section{
+          background-color: hsl(230, 17%, 14%);
+     }
+     & p2 {
+       color: hsl(0, 0%, 100%) ; 
+     }
+     & .numero{
+          color: hsl(0, 0%, 100%) ;
+     }
 }
 

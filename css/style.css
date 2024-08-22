@@ -229,4 +229,13 @@ p4 {
 
 #tema:checked ~ #content {
   background-color: hsl(230, 17%, 14%);
+}
+#tema:checked ~ #contentsection {
+  background-color: hsl(230, 17%, 14%);
+}
+#tema:checked ~ #content p2 {
+  color: hsl(0, 0%, 100%);
+}
+#tema:checked ~ #content .numero {
+  color: hsl(0, 0%, 100%);
 }/*# sourceMappingURL=style.css.map */
